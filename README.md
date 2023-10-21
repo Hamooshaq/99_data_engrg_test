@@ -40,4 +40,4 @@ Note that each SQL file contains some dependencies that may require running of s
 
 2. We expect at least some unit tests, especially on critical functions of your codes.
 
-3. Commit your project into a github private repository and share it with @luqmansrx and @zshaoz. Send a reply email to the recruiter to also let them know that you're done.
+3. Commit your project into a github private repository and share it with @luqmansrx. Send a reply email to the recruiter to also let them know that you're done.
